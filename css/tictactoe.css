@@ -1,0 +1,13 @@
+.board{
+}
+.row{
+    display: block;
+    clear: both;
+}
+.col{
+    width: 50px;
+    height: 50px;
+    float : left;
+    margin: 5px;
+    background: #ccc;
+}
